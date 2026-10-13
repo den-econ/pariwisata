@@ -1,0 +1,6 @@
+﻿Faktor Penilaian,Bobot (%),Sub-Komponen
+Tingkat Pengembalian Pajak,25,Rasio tambahan penerimaan pajak (PPN + PBJT) terhadap total biaya PNBP&Imigrasi (mengukur efisiensi fiskal per rupiah biaya)
+Yield Belanja per Hari,20,Belanja harian wisman (mengukur intensitas nilai ekonomi setiap kunjungan)
+Skala Ekonomi,20,Total nilai tambah ekonomi/efek multiplikasi pada tahun pertama (Case Agresif)
+Growth Momentum,5,Indikator yang sama dengan Growth Blend (CAGR + YoY Growth)
+Efisiensi PNBP (reverse),30,"Semakin kecil PNBP visa yang dilepas, semakin tinggi skor (menangkap biaya peluang fiskal)"

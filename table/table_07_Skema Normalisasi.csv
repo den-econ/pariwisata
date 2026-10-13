@@ -1,0 +1,14 @@
+﻿Variabel & Kategori,Deskripsi / Ambang,Skor Normalisasi
+"GNI per Kapita (USD, 2025) — Klasifikasi Bank Dunia","GNI per Kapita (USD, 2025) — Klasifikasi Bank Dunia","GNI per Kapita (USD, 2025) — Klasifikasi Bank Dunia"
+Low Income,< 1.145,25
+Lower-Middle Income,1.145 – 4.515,50
+Upper-Middle Income,4.516 – 14.005,75
+High Income,> 14.005,100
+Kebijakan Visa Negara Kandidat untuk WNI,Kebijakan Visa Negara Kandidat untuk WNI,Kebijakan Visa Negara Kandidat untuk WNI
+Memerlukan Visa,Belum ada fasilitasi,0
+Fasilitasi Parsial,"e-Visa, ETA, atau bebas visa terbatas",50
+Bebas Visa Penuh,Bebas visa reguler bagi WNI,100
+Status Hubungan Bilateral / Perjanjian Ekonomi,Status Hubungan Bilateral / Perjanjian Ekonomi,Status Hubungan Bilateral / Perjanjian Ekonomi
+Tidak Ada Perjanjian Aktif,-,0
+Perjanjian Parsial / Berlangsung,"Negosiasi FTA/CEPA, MoU sektoral",50
+Ada Perjanjian Aktif,"FTA/CEPA, IJEPA, IK-CEPA, dll",100

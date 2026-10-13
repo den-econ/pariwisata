@@ -1,0 +1,4 @@
+﻿Skenario,Aturan Konstruksi,Jumlah Negara
+Skenario 1 (Negara EU),Anggota Uni Eropa (IEU-CEPA) dan Schengen Area yang lolos seleksi 15 besar dengan skor tertinggi,5
+Skenario 2 (Negara EU),Skenario 1 diperluas dengan tambahan negara anggota Uni Eropa dan Schengen Area berikutnya.,10
+Skenario 3 (Negara EU+Negara Dampak Tinggi),"Skenario 2 ditambah 5 negara non-Uni Eropa berdampak tertinggi, dipilih berdasarkan kerangka prioritisasi",15

@@ -72,3 +72,10 @@ desktop.ini
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# ── Quarto render artefacts ──────────────────────────────────
+/*.tex
+/*.html
+pariwisata_files/
+/den.cls
+/den-logo.pdf
