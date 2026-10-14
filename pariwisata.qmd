@@ -7,7 +7,7 @@ manuscript: article
 layout: publish     # preprint, publish, or brief (brief = Naskah Kebijakan policy brief)
 year: 2026
 volume: 6
-published: "20 May 2026"
+published: "8 October 2026"
 
 number-sections: true
 
